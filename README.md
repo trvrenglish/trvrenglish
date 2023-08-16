@@ -1,4 +1,4 @@
-### Welcome to my Github! <img src="https://www.icegif.com/wp-content/uploads/turtle-icegif-26.gif" width="30px">
+### Welcome to my Github!<img src="https://www.icegif.com/wp-content/uploads/turtle-icegif-26.gif" width="50px">
 <!--
 **trvrenglish/trvrenglish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
