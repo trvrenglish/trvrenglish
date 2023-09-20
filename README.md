@@ -17,25 +17,3 @@
         <a href="https://en.wikipedia.org/wiki/Romanian_language" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/255px-Flag_of_Romania.svg.png" alt="Romanian language" width="40" height="40"/>
         </a>
-      </p><p></p>
-      <h3 align="center">Some of my favorite hobbies include</h3>
-      <p align="center">
-        <a href="https://youtu.be/ZTMxjADudbc?t=20" target="_blank" rel="noreferrer">
-        <img src="https://em-content.zobj.net/thumbs/160/apple/155/male-artist_1f468-200d-1f3a8.png" alt="Oil Painting" width="40" height="40"/>
-        </a>
-        <a href="https://youtu.be/SleYHOcLjOg?t=17" target="_blank" rel="noreferrer">
-          <img src="https://pngimg.com/uploads/guitar/guitar_PNG3354.png" alt="Guitar" width="40" height="40"/>
-        </a>
-        <a href="https://youtu.be/n-5F_7DwPpo?t=4" target="_blank" rel="noreferrer">
-          <img src="https://em-content.zobj.net/thumbs/160/apple/76/surfer_1f3c4.png" alt="Surfing" width="40" height="40"/>
-        </a>
-        <a href="https://www.strava.com/athletes/104170703" target="_blank" rel="noreferrer">
-          <img src="https://em-content.zobj.net/source/apple/114/man-running_1f3c3-200d-2642-fe0f.png" alt="Running" width="40" height="40"/>
-        </a>
-      </p><p></p>
-    <h3 align="center">Find me on these platforms</h3>
-      <p align="center">
-        <a href="https://linkedin.com/in/trvrenglish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trvrenglish" height="30" width="40" /></a>
-        <a href="https://www.youtube.com/@trvrenglish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trevorenglish345" height="30" width="40" /></a>
-      </p><p></p>
-
