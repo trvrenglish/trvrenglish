@@ -1,6 +1,5 @@
 <h1 align="left">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.webp" width="30px" style="margin-right: 5.5px;"> I'm Trevor!</h1>
-<ul>
-  <li><a href="https://www.github.com/ethandvaughan" target="_blank" rel="noreferrer">@ethandvaughan</a>, <a href="https://www.github.com/ethanbanez" target="_blank" rel="noreferrer">@ethanbanez</a>, and I have an affinity for turtles<img src="https://www.icegif.com/wp-content/uploads/turtle-icegif-26.gif" width="60px" align="center""></li></ul>
+<a href="https://www.github.com/ethandvaughan" target="_blank" rel="noreferrer">@ethandvaughan</a>, <a href="https://www.github.com/ethanbanez" target="_blank" rel="noreferrer">@ethanbanez</a>, and I have an affinity for turtles<img src="https://www.icegif.com/wp-content/uploads/turtle-icegif-26.gif" width="60px" align="center"">
   <h2/>
   <h3 align="center">I'm currently learning</h3>
       <p align="center">
